@@ -29,6 +29,9 @@ FitBuddy is an AI-powered fitness plan generator that creates safe and general f
 3. FastAPI sends a prompt to Gemini AI.
 4. Gemini generates a general fitness plan.
 5. The plan is displayed in the Streamlit interface.
+## output link
+https://kaavikaashok-alt.github.io/Fitbuddy-Ai-fitness-plan-generator-using-gemini-models/
+
 
 ## Project Structure
 
